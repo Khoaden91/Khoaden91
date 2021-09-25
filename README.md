@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khoaden91
 - 👀 I’m interested in code
 - 🌱 I’m currently learning law
-- 💞️ I’m looking to collaborate on 3Dmap project
+- 💞️ I’m looking to collaborate on write code for map 3D project
 - 📫 reach me via khoaden91@gmail.com
 - I want to build a form of 3D map data that shows Vietnam's criminal distribution by locality.
 <!---
